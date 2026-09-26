@@ -1,0 +1,4 @@
+﻿  P20 C4.cpp
+C:\Users\Lenovo\source\repos\P20 C4\P20 C4\P20 C4.cpp(19,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lenovo\source\repos\P20 C4\P20 C4\P20 C4.cpp(20,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  P20 C4.vcxproj -> C:\Users\Lenovo\source\repos\P20 C4\x64\Debug\P20 C4.exe
